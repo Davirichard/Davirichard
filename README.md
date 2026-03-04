@@ -40,9 +40,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/next
 <img align="center" alt="tailwind" height="40" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 
-<img align="center" alt="bootstrap" height="40" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
 </div>
 
 ---
