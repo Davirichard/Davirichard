@@ -17,7 +17,7 @@ Front-End Developer • React • Next.js • TypeScript
 
 ## 🧠 Tecnologias que utilizo
 
-<div style="display: inline"><br>
+<div style="display: inline_block"><br>
 
 <img align="center" alt="html" height="40" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
